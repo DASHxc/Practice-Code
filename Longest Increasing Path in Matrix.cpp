@@ -1,3 +1,6 @@
+#include<vector>
+#include<unordered_map>
+using namespace std;
 class Solution {
 public:
     int r[4] = {-1,0,1,0};
