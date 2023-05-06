@@ -1,3 +1,5 @@
+#include<vector>
+using namespace std;
 class Solution {
 public:
     void DFS(vector<vector<int>>& graph,int n, vector<int>& visited,int row){
