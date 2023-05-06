@@ -1,5 +1,9 @@
 
 //First Approach o(n*n) BFS
+#include<vector>
+#include<unordered_map>
+#include<queue>
+using namespace std;
 class Solution {
 public:
     void DFS(vector<int> graph[], int u, vector<int>& visited, int level, int& ht ){

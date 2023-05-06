@@ -1,4 +1,10 @@
 //very good question
+#include<vector>
+#include<unordered_map>
+#include<stack>
+#include<set>
+#include<string>
+using namespace std;
 class Solution {
 public:
     vector<string> findItinerary(vector<vector<string>>& tickets) {
