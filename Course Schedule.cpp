@@ -1,3 +1,6 @@
+#include<vector>
+#include<unordered_map>
+using namespace std;
 class Solution {
 public:
     bool cycleCheck(int i,vector<int>& visited,vector<int> graph[]){
